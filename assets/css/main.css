@@ -1641,3 +1641,7 @@ input, select, textarea {
 #header .content .inner strong {
 	color: red;
 }
+
+figcaption a strong {
+	color: red;
+}
