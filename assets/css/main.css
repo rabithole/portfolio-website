@@ -1645,3 +1645,20 @@ input, select, textarea {
 figcaption a strong {
 	color: red;
 }
+
+.logo {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.logo img {
+	/*flex-direction: row;
+	justify-content: center;
+	align-items: center;*/
+	width: 80%;
+	height: 80%;
+
+	position: relative;
+	left: 5%;
+}
