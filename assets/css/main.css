@@ -1653,12 +1653,8 @@ figcaption a strong {
 }
 
 .logo img {
-	/*flex-direction: row;
-	justify-content: center;
-	align-items: center;*/
 	width: 80%;
 	height: 80%;
-
 	position: relative;
 	left: 5%;
 }
